@@ -274,8 +274,8 @@ class SettingInterface(ScrollArea):
                 "model_cfg": cfg.openai_model,
                 "default_base": "https://api.openai.com/v1",
                 "default_models": [
-                    "gpt-4o-mini",
-                    "gpt-4o",
+                    "gpt-4.1-mini",
+                    "gpt-4.1",
                     "claude-3-5-sonnet-20241022",
                 ],
             },
